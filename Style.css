@@ -1,0 +1,31 @@
+body
+{
+    background-image: url("./background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80vw;
+    height: 140vh;}
+
+img
+{
+    width: 200px;
+    height: 250px;
+}
+
+.imagen
+{
+    position: relative;
+  right: -220px;
+  top: -450px;
+}
+.text
+{
+    text-align: center;
+    color:  black; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
+}
+
